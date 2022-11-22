@@ -1,0 +1,4 @@
+~/.fehbg &
+tint2 -c ~/.config/tint2/minima.tint2rc &
+picom -c -b &
+~/.config/mouse.sh &
